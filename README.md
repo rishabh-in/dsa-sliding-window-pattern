@@ -1,16 +1,35 @@
-Awesome — here’s a complete, copy-pasteable **Markdown** write-up with **TypeScript** solutions for each of the 20 sliding-window problems.
-For every problem you’ll see:
+# Sliding Window Problems – Complete Guide (with Solutions in TypeScript)
 
-* **Brute force** (clear but slow)
-* **Optimized** sliding-window/deque/prefix approach
-
----
-
-# Sliding Window DSA (Easy → Medium → Hard) — Brute Force vs Optimized (TypeScript)
-
-> All code is self-contained functions. Feel free to lift any snippet into your repo or coding platform.
+This document contains **20 sliding window problems** arranged in **progression order**.  
+Each includes:
+- **Problem Description**
+- **Brute Force Approach (TypeScript)**  
+- **Optimized Sliding Window Solution (TypeScript)**  
 
 ---
+
+## Table of Contents
+
+1. [Maximum Sum Subarray of Size K](#1-maximum-sum-subarray-of-size-k)  
+2. [Minimum Sum Subarray of Size K](#2-minimum-sum-subarray-of-size-k)  
+3. [First Negative Number in Every Window of Size K](#3-first-negative-number-in-every-window-of-size-k)  
+4. [Average of All Subarrays of Size K](#4-average-of-all-subarrays-of-size-k)  
+5. [Count Occurrences of Anagrams](#5-count-occurrences-of-anagrams)  
+6. [Longest Substring with K Distinct Characters](#6-longest-substring-with-k-distinct-characters)  
+7. [Longest Substring Without Repeating Characters](#7-longest-substring-without-repeating-characters)  
+8. [Minimum Window Substring](#8-minimum-window-substring)  
+9. [Longest Substring with At Most Two Distinct Characters](#9-longest-substring-with-at-most-two-distinct-characters)  
+10. [Fruit Into Baskets](#10-fruit-into-baskets)  
+11. [Permutation in String](#11-permutation-in-string)  
+12. [Longest Repeating Character Replacement](#12-longest-repeating-character-replacement)  
+13. [Binary Subarray with Sum](#13-binary-subarray-with-sum)  
+14. [Max Consecutive Ones III](#14-max-consecutive-ones-iii)  
+15. [Sliding Window Maximum](#15-sliding-window-maximum)  
+16. [Longest Subarray of Sum at Most K](#16-longest-subarray-of-sum-at-most-k)  
+17. [Subarrays with K Different Integers](#17-subarrays-with-k-different-integers)  
+18. [Shortest Subarray with Sum ≥ K](#18-shortest-subarray-with-sum-k)  
+19. [Maximize the Confusion of an Exam](#19-maximize-the-confusion-of-an-exam)  
+20. [Longest Subarray with Equal Number of 0 and 1](#20-longest-subarray-with-equal-number-of-0-and-1)  
 
 ## 1) Maximum Sum Subarray of Size K
 
