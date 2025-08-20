@@ -21,7 +21,7 @@ Each includes:
 9. [Longest Substring with At Most Two Distinct Characters](#9-longest-substring-with-at-most-two-distinct-characters)  
 10. [Fruit Into Baskets](#10-fruit-into-baskets)  
 11. [Permutation in String](#11-permutation-in-string)  
-12. [Longest Repeating Character Replacement](#12-longest-repeating-character-replacement)  
+12. [Longest Repeating Character Replacement (LC 424)](#12-longest-repeating-character-replacement)  
 13. [Binary Subarray with Sum](#13-binary-subarray-with-sum)  
 14. [Max Consecutive Ones III](#14-max-consecutive-ones-iii)  
 15. [Sliding Window Maximum](#15-sliding-window-maximum)  
